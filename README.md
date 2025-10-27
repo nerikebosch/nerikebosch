@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me 
+
+Wroclaw University of Science and Technology
+Medical Informatics
+
 
 <!--
 **nerikebosch/nerikebosch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
